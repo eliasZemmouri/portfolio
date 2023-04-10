@@ -1,0 +1,12 @@
+.avatar{
+    height: 300px;
+    width: 600px;
+}
+#apercu{
+    color: antiquewhite;
+    background-color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
